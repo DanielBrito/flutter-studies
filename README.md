@@ -6,3 +6,6 @@ These examples cover different aspects of several tools and concepts related to 
 
 - Dart
 
+## :books: Books
+
+- [Flutter Complete Reference](./ebook_flutter_complete_reference.pdf) (Alberto Miola)
