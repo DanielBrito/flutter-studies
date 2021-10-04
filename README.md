@@ -10,6 +10,6 @@ These examples cover different aspects of several tools and concepts related to 
 
 - [Flutter Complete Reference](./ebook_flutter_complete_reference.pdf) (Alberto Miola)
 
-## Helpful Content
+## 👍 Helpful Content
 
 - [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) (Kinjal Dhamat)
