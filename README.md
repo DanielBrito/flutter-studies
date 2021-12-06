@@ -7,10 +7,14 @@ These examples cover different aspects of several tools and concepts related to 
 - Dart
 - State Management
 
-## :books: Books
+## :books: Recommended Books
 
 - [Flutter Complete Reference](./ebook_flutter_complete_reference.pdf) (Alberto Miola)
 
 ## 👍 Helpful Content
 
 - [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) (Kinjal Dhamat)
+
+- [Widget of the Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
+
+- [Material Design](https://material.io/design)
