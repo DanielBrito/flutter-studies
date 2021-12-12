@@ -5,6 +5,7 @@ These examples cover different aspects of several tools and concepts related to 
 ## :bookmark_tabs: Learning Topics
 
 - Dart
+- State Management
 
 ## :books: Recommended Books
 
