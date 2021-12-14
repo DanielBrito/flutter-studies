@@ -10,8 +10,9 @@ These examples cover different aspects of several tools and concepts related to 
 ## :books: Recommended Books
 
 - [Flutter Complete Reference](./ebook_flutter_complete_reference.pdf) (Alberto Miola)
+- [Practical Flutter: Improve Your Mobile Development with Google's Latest Open-Source SDK](https://www.amazon.com.br/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) (Frank Zammetti)
 
-## 👍 Helpful Content
+## :thumbsup: Helpful Content
 
 - [Flutter: Best Practices and Tips](https://medium.com/flutter-community/flutter-best-practices-and-tips-7c2782c9ebb5) (Kinjal Dhamat)
 
