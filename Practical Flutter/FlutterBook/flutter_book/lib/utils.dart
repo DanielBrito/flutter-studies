@@ -11,20 +11,22 @@ import "base_model.dart";
 Directory docsDir = Directory("");
 
 Future selectDate(
-    BuildContext inContext, BaseModel inModel, String inDateString) async {
-  print("## globals.selectDate()");
+    BuildContext inContext, BaseModel inModel, String? inDateString) async {
+  print("## globals.selectDate() - inDateString = $inDateString");
 
   // Default to today's date, assuming we're adding.
   DateTime initialDate = DateTime.now();
 
-  List dateParts = inDateString.split(",");
+  if (inDateString != null && inDateString.isNotEmpty) {
+    List dateParts = inDateString.split(",");
 
-  // Create a DateTime using the year, month and day from dateParts.
-  initialDate = DateTime(
-    int.parse(dateParts[0]),
-    int.parse(dateParts[1]),
-    int.parse(dateParts[2]),
-  );
+    // Create a DateTime using the year, month and day from dateParts.
+    initialDate = DateTime(
+      int.parse(dateParts[0]),
+      int.parse(dateParts[1]),
+      int.parse(dateParts[2]),
+    );
+  }
 
   DateTime? picked = await showDatePicker(
     context: inContext,

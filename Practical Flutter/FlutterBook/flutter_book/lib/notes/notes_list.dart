@@ -46,7 +46,7 @@ class NotesList extends StatelessWidget {
                   case "yellow":
                     color = Colors.yellow.shade200;
                     break;
-                  case "grey":
+                  case "brown":
                     color = Colors.brown.shade200;
                     break;
                   case "purple":

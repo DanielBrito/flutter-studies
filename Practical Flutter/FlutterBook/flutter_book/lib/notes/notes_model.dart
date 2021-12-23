@@ -1,10 +1,12 @@
 import "../base_model.dart";
 
 class Note {
-  int id = -1;
-  String title = "";
-  String content = "";
-  String color = "";
+  int id;
+  String title;
+  String content;
+  String color;
+
+  Note({this.id = -1, this.title = "", this.content = "", this.color = ""});
 
   @override
   String toString() {
@@ -13,7 +15,7 @@ class Note {
 }
 
 class NotesModel extends BaseModel {
-  String color = "gray";
+  String color = "grey";
 
   void setColor(String inColor) {
     print("## NotesModel.setColor(): inColor = $inColor");
