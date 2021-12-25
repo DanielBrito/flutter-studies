@@ -35,31 +35,34 @@ class NotesList extends StatelessWidget {
 
                 switch (note.color) {
                   case "red":
-                    color = Colors.red.shade200;
+                    color = Colors.red.shade100;
                     break;
                   case "green":
-                    color = Colors.lightGreen.shade200;
+                    color = Colors.lightGreen.shade100;
                     break;
                   case "blue":
-                    color = Colors.lightBlue.shade200;
+                    color = Colors.lightBlue.shade100;
                     break;
                   case "yellow":
-                    color = Colors.yellow.shade200;
+                    color = Colors.yellow.shade100;
                     break;
                   case "brown":
-                    color = Colors.brown.shade200;
+                    color = Colors.brown.shade100;
                     break;
                   case "purple":
-                    color = Colors.deepPurple.shade200;
+                    color = Colors.deepPurple.shade100;
                     break;
                 }
 
                 return Container(
-                  padding: const EdgeInsets.fromLTRB(20, 20, 20, 0),
+                  padding: inIndex == notesModel.entityList.length - 1
+                      ? const EdgeInsets.all(20)
+                      : const EdgeInsets.fromLTRB(20, 20, 20, 0),
                   child: Slidable(
                     key: const ValueKey(0),
                     startActionPane: ActionPane(
                       motion: const ScrollMotion(),
+                      extentRatio: .25,
                       children: [
                         SlidableAction(
                           onPressed: (BuildContext contextLocal) async {

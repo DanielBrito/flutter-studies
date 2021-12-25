@@ -27,21 +27,27 @@ class TasksList extends StatelessWidget {
               },
             ),
             body: ListView.builder(
-              // Get the first Card out of the shadow.
               padding: const EdgeInsets.fromLTRB(0, 10, 0, 0),
               itemCount: tasksModel.entityList.length,
               itemBuilder: (BuildContext inBuildContext, int inIndex) {
                 Task task = tasksModel.entityList[inIndex];
-                List dateParts = task.dueDate.split(",");
 
-                DateTime dueDate = DateTime(int.parse(dateParts[0]),
-                    int.parse(dateParts[1]), int.parse(dateParts[2]));
+                String sDueDate = "";
 
-                String sDueDate =
-                    DateFormat.yMMMMd("en_US").format(dueDate.toLocal());
+                if (task.dueDate != "") {
+                  List dateParts = task.dueDate.split(",");
+
+                  DateTime dueDate = DateTime(int.parse(dateParts[0]),
+                      int.parse(dateParts[1]), int.parse(dateParts[2]));
+
+                  sDueDate =
+                      DateFormat.yMMMMd("en_US").format(dueDate.toLocal());
+                }
 
                 return Container(
-                  padding: const EdgeInsets.fromLTRB(20, 20, 20, 0),
+                  padding: inIndex == tasksModel.entityList.length - 1
+                      ? const EdgeInsets.all(20)
+                      : const EdgeInsets.fromLTRB(20, 20, 20, 0),
                   child: Slidable(
                     key: const ValueKey(0),
                     startActionPane: ActionPane(
