@@ -101,7 +101,7 @@ class NotesEntry extends StatelessWidget {
                           child: Container(
                             decoration: ShapeDecoration(
                               shape: Border.all(
-                                      color: Colors.red.shade100, width: 18) +
+                                      color: Colors.red.shade100, width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "red"
@@ -120,7 +120,7 @@ class NotesEntry extends StatelessWidget {
                             decoration: ShapeDecoration(
                               shape: Border.all(
                                       color: Colors.lightGreen.shade100,
-                                      width: 18) +
+                                      width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "green"
@@ -139,7 +139,7 @@ class NotesEntry extends StatelessWidget {
                             decoration: ShapeDecoration(
                               shape: Border.all(
                                       color: Colors.lightBlue.shade100,
-                                      width: 18) +
+                                      width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "blue"
@@ -158,7 +158,7 @@ class NotesEntry extends StatelessWidget {
                             decoration: ShapeDecoration(
                               shape: Border.all(
                                       color: Colors.yellow.shade100,
-                                      width: 18) +
+                                      width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "yellow"
@@ -176,7 +176,7 @@ class NotesEntry extends StatelessWidget {
                           child: Container(
                             decoration: ShapeDecoration(
                               shape: Border.all(
-                                      color: Colors.brown.shade100, width: 18) +
+                                      color: Colors.brown.shade100, width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "brown"
@@ -195,7 +195,7 @@ class NotesEntry extends StatelessWidget {
                             decoration: ShapeDecoration(
                               shape: Border.all(
                                       color: Colors.deepPurple.shade100,
-                                      width: 18) +
+                                      width: 15) +
                                   Border.all(
                                       width: 6,
                                       color: notesModel.color == "purple"
