@@ -1,6 +1,6 @@
 # FlutterBook
 
-Personal Information Manager (PIM) for appointments, contacts, notes, and tasks.
+Improved and updated version of the Personal Information Manager (PIM) for appointments, contacts, notes, and tasks.
 
 ---
 
@@ -18,4 +18,40 @@ Personal Information Manager (PIM) for appointments, contacts, notes, and tasks.
 
 ## :eyes: Previews
 
-:construction: In progress...
+<h3 align="center">📅 Appointments</h3>
+
+<br>
+
+<div align="center">
+    <img alt="Appointments preview" src="previews/appointment_preview.gif">
+</div>
+
+<br></br>
+
+<h3 align="center">📱 Contacts</h3>
+
+<br>
+
+<div align="center">
+    <img alt="Contacts preview" src="previews/contact_preview.gif">
+</div>
+
+<br></br>
+
+<h3 align="center">✍️ Notes</h3>
+
+<br>
+
+<div align="center">
+    <img alt="Notes preview" src="previews/note_preview.gif">
+</div>
+
+<br></br>
+
+<h3 align="center">✅ Tasks</h3>
+
+<br>
+
+<div align="center">
+    <img alt="Tasks preview" src="previews/task_preview.gif">
+</div>
