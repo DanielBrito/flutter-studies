@@ -5,6 +5,7 @@ These examples cover different tools and concepts related to mobile development 
 ## :bookmark_tabs: Topics
 
 - Dart
+- Prototyping
 - State management
 - File management
 - Animation
