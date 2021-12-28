@@ -2,6 +2,6 @@
 
 Mock banking app.
 
-## :eyes: Preview
+## Preview
 
 ![Preview](preview.gif)

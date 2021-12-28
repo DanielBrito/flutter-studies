@@ -8,6 +8,6 @@ Simple download app.
 - [provider](https://pub.dev/packages/provider)
 - [path_provider](https://pub.dev/packages/path_provider)
 
-## :eyes: Preview
+## Preview
 
 ![Preview](preview.gif)
