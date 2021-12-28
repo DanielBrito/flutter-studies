@@ -4,26 +4,26 @@ Improved and updated version of the Personal Information Manager (PIM) for appoi
 
 ---
 
-## :toolbox: Dependencies
+## Dependencies
 
-- [Scoped Model (Null Safety)](https://pub.dev/packages/scoped_model/versions/2.0.0-nullsafety.0)
-- [SQLite](https://pub.dev/packages/sqflite)
-- [Flutter Slidable](https://pub.dev/packages/flutter_slidable)
-- [Path Provider](https://pub.dev/packages/path_provider)
-- [Intl](https://pub.dev/packages/intl)
-- [Image Picker](https://pub.dev/packages/image_picker)
-- [Flutter Calendar Carousel](https://pub.dev/packages/flutter_calendar_carousel)
+- [scoped_model](https://pub.dev/packages/scoped_model/versions/2.0.0-nullsafety.0)
+- [sqflite](https://pub.dev/packages/sqflite)
+- [flutter_slidable](https://pub.dev/packages/flutter_slidable)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [intl](https://pub.dev/packages/intl)
+- [image_picker](https://pub.dev/packages/image_picker)
+- [flutter_calendar_carousel](https://pub.dev/packages/flutter_calendar_carousel)
 
 ---
 
-## :eyes: Previews
+## Previews
 
 <h3 align="center">📅 Appointments</h3>
 
 <br>
 
 <div align="center">
-    <img alt="Appointments preview" src="previews/appointment_preview.gif">
+    <img alt="Appointments preview" src="appointment_preview.gif">
 </div>
 
 <br></br>
@@ -33,7 +33,7 @@ Improved and updated version of the Personal Information Manager (PIM) for appoi
 <br>
 
 <div align="center">
-    <img alt="Contacts preview" src="previews/contact_preview.gif">
+    <img alt="Contacts preview" src="contact_preview.gif">
 </div>
 
 <br></br>
@@ -43,7 +43,7 @@ Improved and updated version of the Personal Information Manager (PIM) for appoi
 <br>
 
 <div align="center">
-    <img alt="Notes preview" src="previews/note_preview.gif">
+    <img alt="Notes preview" src="note_preview.gif">
 </div>
 
 <br></br>
@@ -53,5 +53,5 @@ Improved and updated version of the Personal Information Manager (PIM) for appoi
 <br>
 
 <div align="center">
-    <img alt="Tasks preview" src="previews/task_preview.gif">
+    <img alt="Tasks preview" src="task_preview.gif">
 </div>

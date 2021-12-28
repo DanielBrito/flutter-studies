@@ -1,21 +1,21 @@
 # FlutterChat
 
-Platform for chatting.
+Simple platform for chatting.
 
 ---
 
-## :toolbox: Dependencies
+## Dependencies
 
 - Server:
 
-  - socket.io
+  - [socket.io](https://www.npmjs.com/package/socket.io)
 
 - Mobile:
 
-  - flutter_socket_io
-  - path_provider
-  - scoped_model
+  - [flutter_socket_io](https://pub.dev/packages/flutter_socket_io)
+  - [path_provider](https://pub.dev/packages/path_provider)
+  - [scoped_model](https://pub.dev/packages/scoped_model)
 
-## :eyes: Preview
+## Preview
 
 ![Preview](preview.png)

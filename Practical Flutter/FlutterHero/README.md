@@ -6,7 +6,7 @@ A simple arcade game.
 
 ## Dependencies
 
-- audioplayers
+- [audioplayers](https://pub.dev/packages/audioplayers)
 
 ## Preview
 
