@@ -1,0 +1,9 @@
+{
+  "name": "flutter_chat_server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "^4.4.0"
+  }
+}
