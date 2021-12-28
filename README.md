@@ -5,8 +5,10 @@ These examples cover different tools and concepts related to mobile development 
 ## :bookmark_tabs: Topics
 
 - Dart
-- State Management
+- State management
+- File management
 - Animation
+- HTTP
 
 ## :books: Books
 
