@@ -1,6 +1,6 @@
 # FlutterChat
 
-Chat platform.
+Platform for chatting.
 
 ---
 
@@ -12,9 +12,9 @@ Chat platform.
 
 - Mobile:
 
-  - flutter_socket_io _(deprecated version)_
-  - path_provider _(deprecated version)_
-  - scoped_model _(deprecated version)_
+  - flutter_socket_io
+  - path_provider
+  - scoped_model
 
 ## :eyes: Preview
 
