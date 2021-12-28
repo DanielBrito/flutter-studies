@@ -1,16 +1,15 @@
-# http_requests
+# HTTP Requests
 
-A new Flutter project.
+A simple app for testing HTTP requests.
 
-## Getting Started
+## Dependencies
 
-This project is a starting point for a Flutter application.
+- [http](https://pub.dev/packages/http)
 
-A few resources to get you started if this is your first Flutter project:
+## Resources
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+![Preview](preview.png)
