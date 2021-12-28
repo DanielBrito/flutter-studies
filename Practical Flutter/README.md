@@ -2,6 +2,8 @@
 
 Improved and updated version of the codes listed on the [book](https://www.amazon.com.br/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712).
 
+---
+
 ## About
 
 _Explore what Flutter has to offer, where it came from, and where it's going. Mobile development is progressing at a fast rate and with Flutter - an open-source mobile application development SDK created by Google - you can develop applications for Android and iOS, as well as Google Fuchsia.Learn to create three apps (a personal information manager, a chat system, and a game project) that you can install on your mobile devices and use for real. You will begin by getting a solid foundation of Flutter knowledge, and building on it immediately by constructing two more traditional productivity apps.. You will also learn to create a game, enabling you to see a whole other perspective on what Flutter can do. In addition to building these apps, you'll have the benefit of reviewing real-world issues you might encounter, along with ways to deal with them through tips and tricks, all designed to make your Flutter experience that much more productive and, frankly, fun!_
