@@ -1,6 +1,6 @@
 # 📱 Flutter Studies
 
-These examples cover different tools and concepts related to mobile development with Flutter from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
+These experiments cover different tools and concepts related to mobile development with Flutter from my [self-directed](https://github.com/DanielBrito/self-learning) studies.
 
 ## :bookmark_tabs: Topics
 
